@@ -1,0 +1,14 @@
+//todo Polyfill practice ques
+
+map() polyfill
+filter() polyfill
+reduce() polyfill
+call() polyfill
+apply() polyfill
+bind() polyfill
+once() polyfill
+memoize() polyfill
+promise() polyfill
+promise.all() polyfill
+debounce() polyfill
+throttle() polyfill
