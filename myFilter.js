@@ -20,5 +20,5 @@ const myFilteredArr = arr.myFilter((a, i, fullArr) => {
 });
 
 console.log(
-  `Filter => ${myFilteredArr?.toString()}  & original array => ${arr}`
+  `My Filter => ${myFilteredArr?.toString()}  & original array => ${arr}`
 );
